@@ -1,1 +1,5 @@
-This is a test.
+This is a test. 
+
+Today is syllabus day and this is for our intro to github.
+
+I am excited for this semester.
