@@ -5,3 +5,5 @@ Today is syllabus day and this is for our intro to github.
 I am excited for this semester.
 
 As am I! 
+
+collision! 
