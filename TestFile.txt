@@ -6,5 +6,4 @@ I am excited for this semester.
 
 As am I! 
 
-Can't wait!
-
+I am fixing the collision.
